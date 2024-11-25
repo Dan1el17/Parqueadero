@@ -1,6 +1,13 @@
 # Sistema Parqueadero
-Cambios Realizados en el Diagrama de Clases
+Este proyecto tiene como objetivo implementar el módulo de Parqueadero dentro de un sistema de gestión para un establecimiento. El sistema de Parqueadero permitirá gestionar eficientemente las operaciones relacionadas con el control de acceso de vehículos, asignación de espacios, registro de entradas y salidas, cálculo de tarifas y generación de reportes de ocupación y facturación.
 
+### Diagrama UML
+Se adjunta el diagrama UML actualizado, con los cambios realizados al modelo actual.
+
+![Parqueadero](https://github.com/user-attachments/assets/d3aa2475-87af-461b-b203-6c9af145f97d).
+> Diagrama de clases-UML del modulo de pedidos 
+
+# Cambios Realizados en el Diagrama de Clases
 Después de un análisis detallado y mejora del primer diagrama UML, se han realizado los siguientes cambios principales para mejorar la estructura, la claridad y el diseño del sistema:
 
 1. Mejora en el Encapsulamiento :
